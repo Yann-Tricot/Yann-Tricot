@@ -8,6 +8,12 @@
 <a href="mailto:tricot.yann@gmail.com?subject=Contact from Github">
     <img align="left" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="Gmail"/>
 </a>
+
+<br>
+<br>
+
+![Yann Tricot github stats](https://github-readme-stats.vercel.app/api?username=Yann-Tricot&show_icons=true&hide_border=true)
+
 <br>
 
 ```Made with 🥤 and 💻```
