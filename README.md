@@ -5,9 +5,6 @@
 <a href="https://twitter.com/Yannek_t">
     <img align="left" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" alt="Twitter"/>
 </a>
-<a href="https://stackoverflow.com/users/12439300/yann-t">
-    <img align="left" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" alt="Stackoverflow"/>
-</a>
 <a href="mailto:tricot.yann@gmail.com?subject=Contact from Github">
     <img align="left" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="Gmail"/>
 </a>
